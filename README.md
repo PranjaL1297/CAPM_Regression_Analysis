@@ -1,4 +1,4 @@
-# CAPM_Regression_Analysis
+
 # 📊 CAPM_Regression_Analysis
 
 A practical implementation of the Capital Asset Pricing Model (CAPM) using Python, with real-world financial data (AAPL & S&P500). This project includes full regression diagnostics such as multicollinearity (VIF) and heteroskedasticity (Breusch-Pagan test), using the `statsmodels` library.
@@ -40,9 +40,7 @@ To implement and validate the CAPM framework and assess its assumptions using st
 
 ---
 
-## 📎 Sample Output
 
-![CAPM Regression Line](path/to/your/plot.png)
 
 ---
 
